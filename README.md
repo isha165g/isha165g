@@ -18,7 +18,7 @@ Welcome to my GitHub profile! I'm a passionate learner, aspiring developer, and 
 ---
 
 ## 🛠️ Skills
-- **Web:** HTML, CSS, JavaScript, MERN Stack
+- **Web:** HTML, CSS, Bootstrap, JavaScript, MERN Stack
 - **Design:** Canva, Figma, Adobe XD
 - **Tools:** Git, VS Code, GitHub
 
